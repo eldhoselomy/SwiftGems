@@ -14,7 +14,9 @@ Drop your guesses in the comments! 🔥💡
 
 ![Problem 2](https://github.com/user-attachments/assets/432022f7-b7ab-423a-8404-be948f74a400)
 
-## 3. Swift enthusiasts, ready to flex those protocol muscles? Guess the output! 🚀
+## 3. Swift enthusiasts, ready to flex those protocol muscles? 
+
+Guess the output! 🚀
 
 ![Problem 3](https://github.com/user-attachments/assets/b9c3ccca-d9cf-42c3-bc37-f6b54d3d71de)
 
@@ -36,11 +38,7 @@ Looking forward to your insights! 💡
 
 ![Problem 7](https://github.com/user-attachments/assets/21c666da-13dd-488f-a0b7-6f0da6556f48)
 
-## 8. What do you think this code outputs? Drop your guesses! 👇
-  
-![Problem 8](https://github.com/user-attachments/assets/813e35fc-8353-46c7-bc5d-a6cdc87b3903)
-
-## 9.  🎩 Did You Know About This Hidden Typealias Feature? 🎩 
+## 8. 🎩 Did You Know About This Hidden Typealias Feature? 🎩 
 
 I just stumbled upon a little-known gem in Swift that I had to share! 💎 
 
@@ -51,22 +49,25 @@ This nifty feature is a real game-changer when it comes to avoiding redundancy, 
 Shoutout to Vincent Pradeilles 👨🏻‍💻 for the inspiration in his "Hidden Feature: Typealias" post! ✨
 
 Got any other Swift tricks up your sleeve? Share in the comments! 👇
+  
+![Problem 8](https://github.com/user-attachments/assets/813e35fc-8353-46c7-bc5d-a6cdc87b3903)
 
+## 9. Ever tried overriding class properties? 🤔 
+Swift makes it easy to tailor inherited properties in your subclasses.
  
 ![Problem  9](https://github.com/user-attachments/assets/2c7e7c09-be9e-48bf-a73d-23dfb6407aec)
 
-## 10.  Ever tried overriding class properties? 🤔 
-Swift makes it easy to tailor inherited properties in your subclasses.
-
-![Problem 10](https://github.com/user-attachments/assets/f5af8133-a85b-45d9-881f-7b5d8aded979)
-
-## 11.  Ever wished error handling could be more precise?
+## 10. Ever wished error handling could be more precise?
 
 Well, Swift 6 has your back with typed throws, a shiny new feature that lets you define exactly what type of error a method throws. 🔥
 
 Instead of catching any error, you can now handle specific cases with ease—and enjoy compile-time checks to boot! 🎯 No more missed errors or surprise bugs creeping in. This is a win for cleaner, safer code!
 
 Inspired by Antoine van der Lee's post, "Typed throws in Swift explained with code examples." If you haven't explored typed throws yet, you’re missing out!
+
+![Problem 10](https://github.com/user-attachments/assets/f5af8133-a85b-45d9-881f-7b5d8aded979)
+
+## 11.  
 
 ![Problem 10](https://github.com/user-attachments/assets/f5af8133-a85b-45d9-881f-7b5d8aded979)
 
