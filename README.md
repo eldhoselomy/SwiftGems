@@ -67,11 +67,7 @@ Inspired by Antoine van der Lee's post, "Typed throws in Swift explained with co
 
 ![Problem 10](https://github.com/user-attachments/assets/f5af8133-a85b-45d9-881f-7b5d8aded979)
 
-## 11.  
-
-![Problem 10](https://github.com/user-attachments/assets/f5af8133-a85b-45d9-881f-7b5d8aded979)
-
-## 12.  🎩 Mastering Swift’s rethrows in Error Handling! 🎩
+## 11.  🎩 Mastering Swift’s rethrows in Error Handling! 🎩
 
 🔍 Did you know rethrows allows a function to only throw an error if its closure argument throws? It’s an elegant way to streamline error handling in Swift!
 
@@ -81,19 +77,19 @@ In the snippet below:
  • Throwing task is gracefully caught with try.
 
  
-![Problem  12](https://github.com/user-attachments/assets/f4dd9667-d1c5-4996-b25e-2b48d203175f)
+![Problem  11](https://github.com/user-attachments/assets/f4dd9667-d1c5-4996-b25e-2b48d203175f)
 
-## 13.  🚀 SwiftUI Developers: Break Free from the 10-View Limit! 🚀
+## 12.  🚀 SwiftUI Developers: Break Free from the 10-View Limit! 🚀
 
 The 10-view limit in SwiftUI’s ViewBuilder was a known challenge, but Swift 5.9 has brought us parameter packs to overcome it! This feature makes handling multiple views a breeze.
 
 Are you already using parameter packs in your projects? Share your thoughts and let’s discuss how this new feature is reshaping SwiftUI development! 💬👇
 
 
-![Problem  13](https://github.com/user-attachments/assets/6e4c3e41-49b7-472d-9db6-2d30bd8d5b73)
+![Problem  12](https://github.com/user-attachments/assets/6e4c3e41-49b7-472d-9db6-2d30bd8d5b73)
 
 
-## 14.  🚀 Breaking Language Barriers with Apple’s New Translation Framework! 🚀
+## 13.  🚀 Breaking Language Barriers with Apple’s New Translation Framework! 🚀
 
 iOS devs, have you explored Apple’s shiny Translation framework yet? 🌍✨ This powerful tool lets you translate text into various languages, taking user engagement to a whole new level!
 
@@ -101,7 +97,7 @@ Pro tip: You’ll need to download the language packs on your device—this API 
 
 Let’s make our apps speak to the world! 💬📱
 
-![Problem  14](https://github.com/user-attachments/assets/9baa80b6-6daa-4156-9aa1-6de43744ca9c)
+![Problem  13](https://github.com/user-attachments/assets/9baa80b6-6daa-4156-9aa1-6de43744ca9c)
 
 
 
